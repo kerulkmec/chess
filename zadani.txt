@@ -1,0 +1,1 @@
+Šachy pro 2 lidské hráče u jednoho počítače ukládání a načítání rozehrané hry do souboru (vytvořte vhodný formát) základní šachová pravidla (včetně rošád a braní mimochodem), umožní pouze validní tahy, bude oznamovat šach a šach mat. 

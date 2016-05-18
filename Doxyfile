@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Chess"
+PROJECT_BRIEF          = "Implementation of chess game with simple graphics"
+GENERATE_LATEX         = NO
+HAVE_DOT               = YES
+UML_LOOK               = YES
+INPUT 		       = ./src
+HTML_OUTPUT 	       = ./doc
